@@ -1,5 +1,6 @@
 # 7 days golang apps from scratch
 oh
+HAHAHAHAAH
 <details>
 <summary><strong>README 中文版本</strong></summary>
 <div>
